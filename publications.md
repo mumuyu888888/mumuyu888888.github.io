@@ -14,6 +14,8 @@ Robotics Department of LIRMM, Montpellier University II, Montpellier, France
 
 ### Journal
 
+Huaxi (Yulin) Zhang, Yuyang Wang, Xiaochuan Luo, Baptiste Mereaux and Lei Zhang, **Robust Localization Algorithm for Indoor Robots Based on the Branch-and-Bound Strategy**. Journal of Engineering Research and Sciences, vol.3, pp. 22-42, 2024. https://www.jenrs.com/v03/i02/p004/
+
 Mingyang Geng *, Kele Xu, Xing Zhou, Bo Ding *, Huaimin Wang, Lei Zhang, **Learning to Cooperate via Attention-based Communication Neural Network in Decentralized Multi-robot Exploration**, Entropy(SCI) 2019, 21(3), 294;
 
 Yu Wang, Guangsheng Zhang, Lei ZHANG, Jiafu Tang and Huaizhong Mu, **A Column-Generation based Approach for Integrating Surgeon and Surgery Scheduling**, IEEE Access(SCI) ( Volume: 6 ),  Page(s): 41578 – 41589, 10 July 2018
