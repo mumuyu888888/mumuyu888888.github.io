@@ -14,7 +14,7 @@ Robotics Department of LIRMM, Montpellier University II, Montpellier, France
 
 ### Journal
 
-Huaxi (Yulin) Zhang, Yuyang Wang, Xiaochuan Luo, Baptiste Mereaux and Lei Zhang, **Robust Localization Algorithm for Indoor Robots Based on the Branch-and-Bound Strategy**. Journal of Engineering Research and Sciences, vol.3, pp. 22-42, 2024. https://www.jenrs.com/v03/i02/p004/
+Huaxi (Yulin) Zhang, Yuyang Wang, Xiaochuan Luo, Baptiste Mereaux and Lei Zhang, **Robust Localization Algorithm for Indoor Robots Based on the Branch-and-Bound Strategy**, Journal of Engineering Research and Sciences, vol.3, pp. 22-42, 2024. https://www.jenrs.com/v03/i02/p004/
 
 Mingyang Geng *, Kele Xu, Xing Zhou, Bo Ding *, Huaimin Wang, Lei Zhang, **Learning to Cooperate via Attention-based Communication Neural Network in Decentralized Multi-robot Exploration**, Entropy(SCI) 2019, 21(3), 294;
 
@@ -29,7 +29,7 @@ Z. Fang, W. Gao, and L. Zhang*, **Robust Adaptive Integral Backstepping Control 
 
 ## Conference
 
-F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **IntelliMove: Enhancing Robotic Planning with Semantic Mapping**. In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer.
+F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **IntelliMove: Enhancing Robotic Planning with Semantic Mapping**, In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer.
 
 Y. Wang, Z. Cui, L. Zhang, X. Luo and J. Sun, **Accurate Localization Algorithm for Indoor Robots Using Branch and Bound Strategy**, 2022 IEEE International Conference on Mechatronics and Automation (ICMA), Guilin, Guangxi, China, 2022, pp. 98-103, doi: 10.1109/ICMA54519.2022.9856252.
 
