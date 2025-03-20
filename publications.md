@@ -27,6 +27,8 @@ Z. Fang, W. Gao, and L. Zhang*, **Robust Adaptive Integral Backstepping Control 
 
 ## Conference
 
+Ngom, F., Zhang, H. Y., Zhang, L., Godary-Dejean, K., & Huchard, M. (2024, September). **IntelliMove: Enhancing Robotic Planning with Semantic Mapping**. In Annual Conference Towards Autonomous Robotic Systems (pp. 72-83). Cham: Springer Nature Switzerland.
+
 Y. Wang, Z. Cui, L. Zhang, X. Luo and J. Sun, **Accurate Localization Algorithm for Indoor Robots Using Branch and Bound Strategy**, 2022 IEEE International Conference on Mechatronics and Automation (ICMA), Guilin, Guangxi, China, 2022, pp. 98-103, doi: 10.1109/ICMA54519.2022.9856252.
 
 Zheng Guoxian, Zhang Lei, Zhang Yulin, Bo Ding, **Design of an Indoor Exploration and Multi-Objective Navigation System**, 2018 37th Chinese Control Conference, Wuhan, China
