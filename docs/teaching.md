@@ -1,6 +1,6 @@
 # Teaching
 
-## Master students and undergraduate students
+## Master students and Ph.D students
 ### 2022-2025
 - Fama Ngom
 
