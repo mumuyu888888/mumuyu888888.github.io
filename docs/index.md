@@ -4,10 +4,6 @@
 
 ![](img/bandeau.jpg)
 
-Cloud Robotics / Software Architecture in Robotics / Model Driven Engineering in Robotics / Mobile robot Navigation
+AI and Robotics / Cloud Robotics /Mobile robot Navigation / Software Architecture in Robotics / Model Driven Engineering in Robotics 
 
 ---
-
-## News
-
-*News content will be added here*
