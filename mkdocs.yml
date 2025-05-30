@@ -1,5 +1,5 @@
 site_name: Lei ZHANG
-site_url: https://mumuyu888888.github.io/
+site_url: https://www.leizhang.fr/
 site_author: Lei ZHANG
 site_description: Robotics Ph.D. - Cloud Robotics / Software Architecture in Robotics / Model Driven Engineering in Robotics / Mobile robot Navigation
 
@@ -81,7 +81,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/solid/envelope
-      link: mailto:mumuyu888888@gmail.com
+      link: mailto:info@eurodao.com
       name: Email
 
 # Extensions
