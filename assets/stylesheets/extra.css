@@ -1,0 +1,25 @@
+/* Hide navigation drawer/sidebar */
+.md-nav--primary {
+  display: none !important;
+}
+
+/* Hide table of contents on the right */
+.md-sidebar--secondary {
+  display: none !important;
+}
+
+/* Adjust main content to use full width */
+.md-main__inner {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.md-content {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Keep only the top navigation tabs */
+.md-tabs {
+  display: block !important;
+}
