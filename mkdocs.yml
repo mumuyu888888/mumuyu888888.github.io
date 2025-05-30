@@ -37,14 +37,13 @@ theme:
   # Features
   features:
     - navigation.tabs
-    - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - toc.integrate
 
 # Plugins
 plugins:
@@ -83,6 +82,9 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:info@eurodao.com
       name: Email
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 # Extensions
 markdown_extensions:
